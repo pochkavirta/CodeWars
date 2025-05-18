@@ -7,6 +7,6 @@ public class Task6 {
     }
 
     public static String boolToWord(boolean b) {
-        return b ? "Yes" : "No"; //TODO
+        return b ? "Yes" : "No";
     }
 }

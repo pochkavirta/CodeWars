@@ -6,6 +6,6 @@ public class Task5 {
     }
 
     public static String numberToString(int num) {
-        return Integer.toString(num); // Return a string of the number here!
+        return Integer.toString(num);
     }
 }

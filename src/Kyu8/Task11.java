@@ -10,10 +10,10 @@ public class Task11 {
     }
 
     public static int summation(int n) {
-        return n * (n + 1) / 2; //через математику
+        return n * (n + 1) / 2; //математика
     }
 
     public static int summation2(int n) {
-        return IntStream.rangeClosed(1, n).sum(); //через стрим
+        return IntStream.rangeClosed(1, n).sum(); //стрим
     }
 }

@@ -14,11 +14,11 @@ public class Task15 {
     }
 
     public static int countSheeps(Boolean[] arrayOfSheeps) {
-        return Collections.frequency(Arrays.asList(arrayOfSheeps), true); //через коллекции
+        return Collections.frequency(Arrays.asList(arrayOfSheeps), true); //коллекции
     }
 
     public static int countSheeps2(Boolean[] arrayOfSheeps) {
-        return (int) Arrays                                                  //через стримы
+        return (int) Arrays                                                  //стримы
                 .stream(arrayOfSheeps)
                 .filter(sheep -> sheep != null && sheep)
                 .count();
