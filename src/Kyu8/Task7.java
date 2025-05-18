@@ -11,10 +11,13 @@ public class Task7 {
     }
 
     public static int squareSum(int[] n) {
-        return Arrays.stream(n).reduce(0, (x, y) -> x + y * y); //редус
+        return Arrays.stream(n) //редус
+                .reduce(0, (x, y) -> x + y * y);
     }
 
     public static int squareSum2(int[] n) {
-        return Arrays.stream(n).map(x -> x * x).sum(); //маппинг
+        return Arrays.stream(n) //маппинг
+                .map(x -> x * x)
+                .sum();
     }
 }

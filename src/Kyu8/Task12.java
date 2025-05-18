@@ -12,10 +12,13 @@ public class Task12 {
     }
 
     public static int findSmallestInt(int[] args) {
-        return IntStream.of(args).min().getAsInt(); //мин
+        return IntStream.of(args) //мин
+                .min()
+                .getAsInt();
     }
 
     public static int findSmallestInt2(int[] args) {
-        return IntStream.of(args).reduce(args[0], Math::min); //редус
+        return IntStream.of(args) //редус
+                .reduce(args[0], Math::min);
     }
 }

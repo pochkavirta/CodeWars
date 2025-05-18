@@ -14,6 +14,7 @@ public class Task11 {
     }
 
     public static int summation2(int n) {
-        return IntStream.rangeClosed(1, n).sum(); //стрим
+        return IntStream.rangeClosed(1, n) //стрим
+                .sum();
     }
 }

@@ -6,6 +6,8 @@ public class Task4 {
     }
 
     public static String solution(String str) {
-        return new StringBuilder(str).reverse().toString();
+        return new StringBuilder(str)
+                .reverse()
+                .toString();
     }
 }
