@@ -14,6 +14,7 @@ public class Task30 {
     }
 
     public static double sum(double[] numbers) {
-        return Arrays.stream(numbers).sum();
+        return Arrays.stream(numbers)
+                .sum();
     }
 }

@@ -13,6 +13,8 @@ public class Task33 {
     }
 
     public static double findAverage(int[] array) {
-        return Arrays.stream(array).average().orElse(0);
+        return Arrays.stream(array)
+                .average()
+                .orElse(0);
     }
 }

@@ -17,6 +17,8 @@ public class Task32 {
     }
 
     public static boolean betterThanAverage(int[] classPoints, int yourPoints) {
-        return Arrays.stream(classPoints).average().orElse(0) < yourPoints;
+        return Arrays.stream(classPoints)
+                .average()
+                .orElse(0) < yourPoints;
     }
 }
