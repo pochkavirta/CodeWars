@@ -15,7 +15,7 @@ public class Task28 {
         System.out.println(periodIsLate(LocalDate.of(2016, 6, 13), LocalDate.of(2016, 7, 16), 28));
     }
 
-    public static boolean periodIsLate(LocalDate last,LocalDate today,int cycleLength) {
+    public static boolean periodIsLate(LocalDate last, LocalDate today, int cycleLength) {
         return last.plusDays(cycleLength).isBefore(today);
     }
 }
