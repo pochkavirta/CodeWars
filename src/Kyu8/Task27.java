@@ -1,8 +1,8 @@
 package Kyu8;
 
-import java.util.stream.IntStream;
-
 //TODO Find the sum of all multiples of n below m
+
+import java.util.stream.IntStream;
 
 public class Task27 {
     public static void main(String[] args) {
