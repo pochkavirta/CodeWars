@@ -14,7 +14,7 @@ public class Task12 {
     public static int findSmallestInt(int[] args) {
         return IntStream.of(args) //мин
                 .min()
-                .getAsInt();
+                .orElse(0);
     }
 
     public static int findSmallestInt2(int[] args) {
