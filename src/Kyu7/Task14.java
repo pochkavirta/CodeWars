@@ -1,4 +1,4 @@
-package Kyu7.Path1;
+package Kyu7;
 
 //TODO A -> T, T -> A, G -> C, C -> G
 

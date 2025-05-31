@@ -1,4 +1,4 @@
-package Kyu7.Path1;
+package Kyu7;
 
 /*TODO accum("abcd") -> "A-Bb-Ccc-Dddd"
    accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"

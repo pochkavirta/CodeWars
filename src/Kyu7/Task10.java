@@ -1,4 +1,4 @@
-package Kyu7.Path1;
+package Kyu7;
 
 /*TODO An isogram is a word that has no repeating letters, consecutive or non-consecutive.
    Implement a function that determines whether a string that contains only letters is an isogram.

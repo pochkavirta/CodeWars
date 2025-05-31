@@ -1,4 +1,4 @@
-package Kyu7.Path1;
+package Kyu7;
 
 /*TODO You are going to be given a non-empty string. Your job is to return the middle character(s) of the string.
    If the string's length is odd, return the middle character.

@@ -1,4 +1,4 @@
-package Kyu7.Path1;
+package Kyu7;
 
 /*TODO When writing on Twitter, he is known for almost always capitalizing every word. For simplicity,
    you'll have to capitalize each word, check out how contractions are expected to be in the example below.
