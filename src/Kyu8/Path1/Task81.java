@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO Your task is to find the first element of an array that is not consecutive.
 // By not consecutive we mean not exactly 1 larger than the previous element of the array.

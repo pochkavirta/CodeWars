@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO You have to write a function that accepts three parameters:
 // cap is the amount of people the bus can hold excluding the driver.

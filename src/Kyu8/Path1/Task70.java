@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO You're writing code to control your town's traffic lights. You need a function to handle each change
 // from green, to yellow, to red, and then to green again.

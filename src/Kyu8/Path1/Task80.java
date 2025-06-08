@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO Your function takes two arguments:
 // 1. current father's age (years)

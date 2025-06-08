@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO Write a program where Alex can input (n) how many times the hoop goes round and it will return him an encouraging message:
 // If Alex gets 10 or more hoops, return the string "Great, now move on to tricks".

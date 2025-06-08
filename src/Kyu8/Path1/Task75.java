@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO You are given two interior angles (in degrees) of a triangle.
 // Write a function to return the 3rd.
