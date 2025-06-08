@@ -1,4 +1,4 @@
-package Kyu8.Path1;
+package Kyu8.Path2;
 
 //TODO In this Kata we are passing a number (n) into a function.
 // Your code will determine if the number passed is even (or not).
