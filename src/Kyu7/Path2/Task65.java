@@ -14,7 +14,15 @@ public class Task65 {
         System.out.println(triangular(-1));
     }
 
+    public static int triangular(int n) {
+        return (n <= 0) ? 0 : n * (n + 1) / 2;
+    }
+
     public static long triangular(long n) {
-        return 0;
+        long result = 0;
+        for (int i = 1; i <= n; i++) {
+            result += i;
+        }
+        return result;
     }
 }

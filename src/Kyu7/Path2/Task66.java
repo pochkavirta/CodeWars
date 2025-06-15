@@ -2,6 +2,8 @@ package Kyu7.Path2;
 
 //TODO Given a 2D ( nested ) list ( array, vector, .. ) of size m * n, your task is to find the sum of the minimum values in each row.
 
+import java.util.Arrays;
+
 public class Task66 {
     public static void main(String[] args) {
         System.out.println(sumOfMinimums(new int[][]{{1, 2, 3, 4, 5}, {5, 6, 7, 8, 9}, {20, 21, 34, 56, 100}}));
@@ -10,6 +12,10 @@ public class Task66 {
     }
 
     public static int sumOfMinimums(int[][] arr) {
-        return 0;
+        return Arrays.stream(arr)
+                .mapToInt(i -> Arrays.stream(i)
+                        .min()
+                        .orElse(0))
+                .sum();
     }
 }
