@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO In this Kata, your function receives an array of integers as input. Your task is to determine whether the
 // numbers are in ascending order. An array is said to be in ascending order if there are no two adjacent integers

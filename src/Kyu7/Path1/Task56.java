@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO In this Kata, you will be given a string that may have mixed uppercase and lowercase letters and your task is
 // to convert that string to either lowercase only or uppercase only based on:

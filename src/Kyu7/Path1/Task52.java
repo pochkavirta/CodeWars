@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given a string str, reverse it and omit all non-alphabetic characters.
 

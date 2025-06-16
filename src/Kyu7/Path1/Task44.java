@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Complete the function/method so that it returns the url with anything after the anchor (#) removed.
 

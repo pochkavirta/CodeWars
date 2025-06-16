@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Find the total sum of internal angles (in degrees) in an n-sided simple polygon. N will be greater than 2.
 

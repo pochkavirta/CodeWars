@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given a Divisor and a Bound , Find the largest integer N , Such That ,
 // N is divisible by divisor
