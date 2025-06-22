@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO The function is not returning the correct values. Can you figure out why?
 
