@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Create a function add(n)/Add(n) which returns a function that always adds n to any number
 // Note for Java: the return type and methods have not been provided to make it a bit more challenging.

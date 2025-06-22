@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Write a function partlist that gives all the ways to divide a list (an array) of at least two elements into two non-empty parts.
 // Each two non empty parts will be in a pair (or an array for languages without tuples or a structin C - C: see Examples test Cases - )

@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given a sequence of numbers, find the largest pair sum in the sequence.
 

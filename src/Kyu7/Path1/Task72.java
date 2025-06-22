@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO My grandfather always predicted how old people would get, and right before he passed away he revealed his secret!
 // In honor of my grandfather's memory we will write a function using his formula!

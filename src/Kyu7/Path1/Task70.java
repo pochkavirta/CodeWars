@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Complete the function power_of_two/powerOfTwo (or equivalent, depending on your language) that determines if a
 // given non-negative integer is a power of two. From the corresponding Wikipedia entry:

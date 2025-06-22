@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given a string made of digits [0-9], return a string where each digit is repeated a number of times equals to its value.
 

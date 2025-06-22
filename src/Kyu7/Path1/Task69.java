@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Return an array containing the numbers from 1 to N, where N is the parametered value.
 // Replace certain values however if any of the following conditions are met:

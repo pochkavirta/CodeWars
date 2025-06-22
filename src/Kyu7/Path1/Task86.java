@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given an array of integers , Find the maximum product obtained from multiplying 2 adjacent numbers in the array.
 // Note that the array size is at least 2 and consists a mixture of positive, negative integers and also zeroes.

@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Given an array of positive integers (the weights of the people), return a new array / tuple of two integers
 // (depending on your language), whereby the first one is the total weight of team 1, and the second one is the total

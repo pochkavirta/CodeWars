@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO If　a = 1, b = 2, c = 3 ... z = 26
 // Then l + o + v + e = 54

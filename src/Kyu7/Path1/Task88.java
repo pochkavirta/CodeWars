@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Write a function that accepts fight string consists of only small letters and return who wins the fight. When the
 // left side wins return Left side wins!, when the right side wins return Right side wins!, in other case return Let's fight again!.

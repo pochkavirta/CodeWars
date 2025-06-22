@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Write a function called sortGiftCode/sort_gift_code/SortGiftCode that accepts a string containing up to 26
 // unique alphabetical characters, and returns a string containing the same characters in alphabetical order.

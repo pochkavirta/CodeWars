@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO We want to generate a function that computes the series starting from 0 and ending until the given number.
 

@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO You are given a dictionary-like object (implementation may vary by language) containing languages as keys and your
 // corresponding test results as values. Return the list of languages where your score is at least 60, in descending order of the scores.

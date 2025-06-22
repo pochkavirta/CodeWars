@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO This program tests the life of an evaporator containing a gas.
 // We know the content of the evaporator (content in ml), the percentage of foam or gas lost every day (evap_per_day)

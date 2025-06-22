@@ -1,4 +1,4 @@
-package Kyu7.Path2;
+package Kyu7.Path1;
 
 //TODO Your task is to remove all duplicate words from a string, leaving only single (first) words entries.
 // Input:
