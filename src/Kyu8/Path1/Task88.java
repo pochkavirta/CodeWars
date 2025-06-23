@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO I have a cat and a dog.
 // I got them at the same time as kitten/puppy. That was humanYears years ago.

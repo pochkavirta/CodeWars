@@ -1,4 +1,4 @@
-package Kyu8.Path2;
+package Kyu8.Path1;
 
 //TODO Messi is a soccer player with goals in three leagues:
 // LaLiga
