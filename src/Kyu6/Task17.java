@@ -1,6 +1,6 @@
 package Kyu6;
 
-//TODO
+//TODO test
 
 public class Task17 {
     public static void main(String[] args) {
