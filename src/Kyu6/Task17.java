@@ -1,6 +1,6 @@
 package Kyu6;
 
-//TODO test234546312fds
+//TODO test234546312fdsафdas
 
 public class Task17 {
     public static void main(String[] args) {
