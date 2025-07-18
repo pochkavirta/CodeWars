@@ -1,6 +1,6 @@
 package Kyu6;
 
-//TODO test12345
+//TODO test123456
 
 public class Task17 {
     public static void main(String[] args) {
