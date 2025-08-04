@@ -7,5 +7,7 @@ public class Task18 {
         System.out.println("");
     }
 
-
+    public static String[] solution(String s) {
+        return null;
+    }
 }
