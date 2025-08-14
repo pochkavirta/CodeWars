@@ -9,7 +9,6 @@ public class Task18 {
         System.out.println("abcdef");
         System.out.println("HelloWorld");
         System.out.println("abcde");
-        System.out.println("LovePizza");
     }
 
     public static String[] solution(String s) {
